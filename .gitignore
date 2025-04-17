@@ -111,3 +111,5 @@ plugins/__pycache__/
 # Optional: SQLite DBs
 *.sqlite
 *.sqlite3
+
+airflow_env/
