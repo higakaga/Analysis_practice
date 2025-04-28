@@ -91,6 +91,7 @@ ipython_config.py
 *.feather
 *.h5
 *.db
+*.txt
 
 # Font files
 *.ttf
